@@ -1,1 +1,9 @@
 
+Tomatinho AI é um projeto experimental de inteligência artificial.
+Este modelo aprende padrões de texto a partir de exemplos.
+Uma rede neural ajusta seus parâmetros durante o treinamento.
+O português possui palavras, acentos e sinais de pontuação.
+A Tomatinho OSS desenvolve projetos de software e experiências criativas.
+Uma pergunta é uma sequência de tokens que o modelo tenta continuar.
+Treinar do zero significa começar com parâmetros inicializados aleatoriamente.
+Um conjunto de dados precisa ser limpo, autorizado e representativo.
